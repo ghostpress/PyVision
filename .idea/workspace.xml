@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27cdb86e-9146-4398-a626-5b1e9cef25cc" name="Default Changelist" comment="" />
+    <list default="true" id="27cdb86e-9146-4398-a626-5b1e9cef25cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pyvision/segmentation/u-net/data/__init.py__" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +40,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dPlWjGRJwUKU7CDt54zCoE5wCz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -73,6 +79,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="688" y="354" width="601" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596132651873">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="688" y="354" width="601" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1596132651873" />
     <state x="482" y="187" key="SettingsEditor" timestamp="1595881451753">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
